@@ -1,6 +1,6 @@
 cask "mactv" do
-  version "1.7.2"
-  sha256 "cd4c639447f3ded7538207f685026b7ceedc41173ba20ca12e820a1234eb49d5"
+  version "1.8"
+  sha256 "280626a63ca8d0e524409511ff5a3c691d9966cefa60cbc51ca800254c7f8279"
 
   url "https://github.com/noestreich/mactv/releases/download/v#{version}/MacTV-#{version}.zip",
       verified: "github.com/noestreich/mactv/"
