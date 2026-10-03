@@ -2,8 +2,7 @@ cask "mactv" do
   version "1.8"
   sha256 "243a4c4101d8fce065af4c654cbf3d89da56e4f48835cb88d40c682644256c27"
 
-  url "https://github.com/noestreich/mactv/releases/download/v#{version}/MacTV-#{version}.zip",
-      verified: "github.com/noestreich/mactv/"
+  url "https://github.com/noestreich/mactv/releases/download/v#{version}/MacTV-#{version}.zip"
   name "MacTV"
   desc "Menu bar app for watching German live TV streams"
   homepage "https://github.com/noestreich/mactv"
